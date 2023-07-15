@@ -8,3 +8,4 @@ byteorder = "1.4.3"
 clap = { version = "4.3.11", features = ["derive"] }
 eframe = { version = "0.22.0", features = ["serde"] }
 portaudio-rs = "0.3.2"
+spectrum-analyzer = "1.4.0"
